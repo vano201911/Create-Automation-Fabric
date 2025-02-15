@@ -1,0 +1,23 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "minecraft:seagrass"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:seagrass",
+      "chance": 0.125
+    },
+    {
+      "item": "minecraft:sea_pickle",
+      "chance": 0.05
+    },
+    {
+      "item": "minecraft:heart_of_the_sea",
+      "chance": 0.01
+    }
+  ],
+  "processingTime": 250
+}

@@ -1,0 +1,23 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+	  {
+     "item": "minecraft:gravel"
+     },
+     {
+     "item": "minecraft:gravel"
+    },
+     {
+      "item": "minecraft:netherrack"
+    },
+    {
+      "item": "minecraft:netherrack"
+    }
+    ],
+  "results": [
+    {
+      "item": "netherexp:smootg_netherrack",
+      "count": 4
+    }
+  ]
+}

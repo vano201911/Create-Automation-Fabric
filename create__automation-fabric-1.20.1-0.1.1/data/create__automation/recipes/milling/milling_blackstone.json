@@ -1,0 +1,15 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "minecraft:blackstone"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:wither_skeleton_skull",
+      "chance": 0.01
+    }
+  ],
+  "processingTime": 350
+}

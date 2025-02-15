@@ -1,0 +1,12 @@
+{
+    "pack": {
+        "name": "Create: Automation",
+        "id": "create__automation",
+        "pack_format": 15,
+        "version": "0.1.0",
+        "authors": [
+            "vano201911"
+        ],
+        "description": "https://www.curseforge.com/minecraft/mc-mods/create-automation"
+    }
+}

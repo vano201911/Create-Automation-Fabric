@@ -1,0 +1,15 @@
+{
+    "type": "create:splashing",
+    "ingredients": [
+      {
+        "item": "minecraft:quartz"
+      }
+    ],
+    "results": [
+      {
+        "item": "create:experience_nugget",
+        "chance": 0.3
+      }
+    ],
+    "processingTime": 350
+  }

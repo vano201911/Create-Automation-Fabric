@@ -1,0 +1,23 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "minecraft:nether_bricks"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:nether_brick",
+      "chance": 1.0
+    },
+    {
+      "item": "minecraft:nether_brick",
+      "chance": 0.25
+    },
+    {
+      "item": "minecraft:netherite_scrap",
+      "chance": 0.01
+    }
+  ],
+  "processingTime": 350
+}
